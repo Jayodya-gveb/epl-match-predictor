@@ -1,0 +1,41 @@
+{
+  "features": [
+    "home_form_last5_overall",
+    "away_form_last5_overall",
+    "home_venue_form",
+    "away_venue_form",
+    "home_gd_last5",
+    "away_gd_last5",
+    "h2h_home_pts",
+    "h2h_available",
+    "form_diff",
+    "venue_form_diff",
+    "gd_diff",
+    "home_elo",
+    "away_elo",
+    "elo_diff"
+  ],
+  "means": {
+    "home_form_last5_overall": 1.3478618479160276,
+    "away_form_last5_overall": 1.3998094060788917,
+    "home_venue_form": 1.633565255000141,
+    "away_venue_form": 1.1200181762027999,
+    "home_gd_last5": -0.03898188436114133,
+    "away_gd_last5": 0.04449240138562968,
+    "h2h_home_pts": 1.3025633271622903,
+    "h2h_available": 0.8467105263157895,
+    "form_diff": -0.053863636363636364,
+    "venue_form_diff": 0.5123564962688676,
+    "gd_diff": -0.08582841048994097,
+    "home_elo": 1530.9814508099955,
+    "away_elo": 1531.377640565376,
+    "elo_diff": -0.396189755380833
+  },
+  "last_season": "2015/2016",
+  "n_matches": 3040,
+  "date_range": [
+    "2008-08-16",
+    "2016-05-17"
+  ],
+  "sklearn_version": "1.7.2"
+}

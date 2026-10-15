@@ -1,0 +1,15 @@
+feature
+home_form_last5_overall
+away_form_last5_overall
+home_venue_form
+away_venue_form
+home_gd_last5
+away_gd_last5
+h2h_home_pts
+h2h_available
+home_squad_strength
+away_squad_strength
+form_diff
+venue_form_diff
+gd_diff
+strength_diff

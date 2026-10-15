@@ -1,0 +1,933 @@
+team,opp,h2h_pts,n
+Arsenal,Aston Villa,2.0625,16
+Arsenal,Birmingham City,2.5,4
+Arsenal,Blackburn Rovers,2.0,8
+Arsenal,Blackpool,3.0,2
+Arsenal,Bolton Wanderers,2.375,8
+Arsenal,Bournemouth,3.0,2
+Arsenal,Burnley,2.5,4
+Arsenal,Cardiff City,3.0,2
+Arsenal,Chelsea,0.75,16
+Arsenal,Crystal Palace,2.6666666666666665,6
+Arsenal,Everton,2.0625,16
+Arsenal,Fulham,1.8333333333333333,12
+Arsenal,Hull City,2.375,8
+Arsenal,Leicester City,2.5,4
+Arsenal,Liverpool,1.625,16
+Arsenal,Manchester City,1.3125,16
+Arsenal,Manchester United,0.8125,16
+Arsenal,Middlesbrough,2.0,2
+Arsenal,Newcastle United,2.5,14
+Arsenal,Norwich City,2.125,8
+Arsenal,Portsmouth,3.0,4
+Arsenal,Queens Park Rangers,2.5,6
+Arsenal,Reading,3.0,2
+Arsenal,Southampton,1.5,8
+Arsenal,Stoke City,1.875,16
+Arsenal,Sunderland,1.9375,16
+Arsenal,Swansea City,1.3,10
+Arsenal,Tottenham Hotspur,1.3125,16
+Arsenal,Watford,3.0,2
+Arsenal,West Bromwich Albion,2.2857142857142856,14
+Arsenal,West Ham United,2.357142857142857,14
+Arsenal,Wigan Athletic,2.2,10
+Arsenal,Wolverhampton Wanderers,2.6666666666666665,6
+Aston Villa,Arsenal,0.75,16
+Aston Villa,Birmingham City,2.0,4
+Aston Villa,Blackburn Rovers,1.625,8
+Aston Villa,Blackpool,2.0,2
+Aston Villa,Bolton Wanderers,1.75,8
+Aston Villa,Bournemouth,1.5,2
+Aston Villa,Burnley,1.25,4
+Aston Villa,Cardiff City,2.0,2
+Aston Villa,Chelsea,0.6875,16
+Aston Villa,Crystal Palace,1.1666666666666667,6
+Aston Villa,Everton,1.0,16
+Aston Villa,Fulham,1.1666666666666667,12
+Aston Villa,Hull City,2.375,8
+Aston Villa,Leicester City,1.0,4
+Aston Villa,Liverpool,0.9375,16
+Aston Villa,Manchester City,0.6875,16
+Aston Villa,Manchester United,0.4375,16
+Aston Villa,Middlesbrough,0.5,2
+Aston Villa,Newcastle United,0.7857142857142857,14
+Aston Villa,Norwich City,2.0,8
+Aston Villa,Portsmouth,2.5,4
+Aston Villa,Queens Park Rangers,1.1666666666666667,6
+Aston Villa,Reading,3.0,2
+Aston Villa,Southampton,0.75,8
+Aston Villa,Stoke City,0.9375,16
+Aston Villa,Sunderland,1.6875,16
+Aston Villa,Swansea City,0.6,10
+Aston Villa,Tottenham Hotspur,0.5625,16
+Aston Villa,Watford,0.0,2
+Aston Villa,West Bromwich Albion,1.4285714285714286,14
+Aston Villa,West Ham United,1.4285714285714286,14
+Aston Villa,Wigan Athletic,1.6,10
+Aston Villa,Wolverhampton Wanderers,1.5,6
+Birmingham City,Arsenal,0.25,4
+Birmingham City,Aston Villa,0.5,4
+Birmingham City,Blackburn Rovers,1.75,4
+Birmingham City,Blackpool,3.0,2
+Birmingham City,Bolton Wanderers,1.0,4
+Birmingham City,Burnley,1.5,2
+Birmingham City,Chelsea,1.0,4
+Birmingham City,Everton,0.75,4
+Birmingham City,Fulham,1.0,4
+Birmingham City,Hull City,2.0,2
+Birmingham City,Liverpool,0.75,4
+Birmingham City,Manchester City,0.75,4
+Birmingham City,Manchester United,0.5,4
+Birmingham City,Newcastle United,0.0,2
+Birmingham City,Portsmouth,3.0,2
+Birmingham City,Stoke City,1.75,4
+Birmingham City,Sunderland,1.75,4
+Birmingham City,Tottenham Hotspur,0.5,4
+Birmingham City,West Bromwich Albion,0.0,2
+Birmingham City,West Ham United,1.75,4
+Birmingham City,Wigan Athletic,1.75,4
+Birmingham City,Wolverhampton Wanderers,1.75,4
+Blackburn Rovers,Arsenal,0.875,8
+Blackburn Rovers,Aston Villa,1.25,8
+Blackburn Rovers,Birmingham City,1.0,4
+Blackburn Rovers,Blackpool,2.0,2
+Blackburn Rovers,Bolton Wanderers,1.375,8
+Blackburn Rovers,Burnley,3.0,2
+Blackburn Rovers,Chelsea,0.125,8
+Blackburn Rovers,Everton,1.0,8
+Blackburn Rovers,Fulham,1.75,8
+Blackburn Rovers,Hull City,2.0,4
+Blackburn Rovers,Liverpool,0.625,8
+Blackburn Rovers,Manchester City,0.25,8
+Blackburn Rovers,Manchester United,0.625,8
+Blackburn Rovers,Middlesbrough,1.0,2
+Blackburn Rovers,Newcastle United,1.6666666666666667,6
+Blackburn Rovers,Norwich City,2.0,2
+Blackburn Rovers,Portsmouth,1.75,4
+Blackburn Rovers,Queens Park Rangers,2.0,2
+Blackburn Rovers,Stoke City,0.5,8
+Blackburn Rovers,Sunderland,0.75,8
+Blackburn Rovers,Swansea City,1.5,2
+Blackburn Rovers,Tottenham Hotspur,0.375,8
+Blackburn Rovers,West Bromwich Albion,1.3333333333333333,6
+Blackburn Rovers,West Ham United,0.8333333333333334,6
+Blackburn Rovers,Wigan Athletic,1.375,8
+Blackburn Rovers,Wolverhampton Wanderers,2.1666666666666665,6
+Blackpool,Arsenal,0.0,2
+Blackpool,Aston Villa,0.5,2
+Blackpool,Birmingham City,0.0,2
+Blackpool,Blackburn Rovers,0.5,2
+Blackpool,Bolton Wanderers,2.0,2
+Blackpool,Chelsea,0.0,2
+Blackpool,Everton,0.5,2
+Blackpool,Fulham,0.5,2
+Blackpool,Liverpool,3.0,2
+Blackpool,Manchester City,0.0,2
+Blackpool,Manchester United,0.0,2
+Blackpool,Newcastle United,2.0,2
+Blackpool,Stoke City,2.0,2
+Blackpool,Sunderland,1.5,2
+Blackpool,Tottenham Hotspur,2.0,2
+Blackpool,West Bromwich Albion,1.5,2
+Blackpool,West Ham United,0.5,2
+Blackpool,Wigan Athletic,1.5,2
+Blackpool,Wolverhampton Wanderers,1.5,2
+Bolton Wanderers,Arsenal,0.5,8
+Bolton Wanderers,Aston Villa,1.0,8
+Bolton Wanderers,Birmingham City,1.75,4
+Bolton Wanderers,Blackburn Rovers,1.375,8
+Bolton Wanderers,Blackpool,0.5,2
+Bolton Wanderers,Burnley,2.0,2
+Bolton Wanderers,Chelsea,0.0,8
+Bolton Wanderers,Everton,1.25,8
+Bolton Wanderers,Fulham,0.375,8
+Bolton Wanderers,Hull City,1.25,4
+Bolton Wanderers,Liverpool,0.375,8
+Bolton Wanderers,Manchester City,0.5,8
+Bolton Wanderers,Manchester United,0.125,8
+Bolton Wanderers,Middlesbrough,3.0,2
+Bolton Wanderers,Newcastle United,1.1666666666666667,6
+Bolton Wanderers,Norwich City,0.0,2
+Bolton Wanderers,Portsmouth,1.75,4
+Bolton Wanderers,Queens Park Rangers,3.0,2
+Bolton Wanderers,Stoke City,1.75,8
+Bolton Wanderers,Sunderland,0.625,8
+Bolton Wanderers,Swansea City,0.5,2
+Bolton Wanderers,Tottenham Hotspur,0.875,8
+Bolton Wanderers,West Bromwich Albion,1.1666666666666667,6
+Bolton Wanderers,West Ham United,3.0,6
+Bolton Wanderers,Wigan Athletic,1.25,8
+Bolton Wanderers,Wolverhampton Wanderers,2.1666666666666665,6
+Bournemouth,Arsenal,0.0,2
+Bournemouth,Aston Villa,1.5,2
+Bournemouth,Chelsea,1.5,2
+Bournemouth,Crystal Palace,2.0,2
+Bournemouth,Everton,0.5,2
+Bournemouth,Leicester City,1.0,2
+Bournemouth,Liverpool,0.0,2
+Bournemouth,Manchester City,0.0,2
+Bournemouth,Manchester United,1.5,2
+Bournemouth,Newcastle United,1.5,2
+Bournemouth,Norwich City,1.5,2
+Bournemouth,Southampton,1.5,2
+Bournemouth,Stoke City,0.0,2
+Bournemouth,Sunderland,2.0,2
+Bournemouth,Swansea City,2.0,2
+Bournemouth,Tottenham Hotspur,0.0,2
+Bournemouth,Watford,1.0,2
+Bournemouth,West Bromwich Albion,2.0,2
+Bournemouth,West Ham United,1.5,2
+Burnley,Arsenal,0.25,4
+Burnley,Aston Villa,1.25,4
+Burnley,Birmingham City,1.5,2
+Burnley,Blackburn Rovers,0.0,2
+Burnley,Bolton Wanderers,0.5,2
+Burnley,Chelsea,0.25,4
+Burnley,Crystal Palace,0.5,2
+Burnley,Everton,0.75,4
+Burnley,Fulham,0.5,2
+Burnley,Hull City,3.0,4
+Burnley,Leicester City,0.5,2
+Burnley,Liverpool,0.0,4
+Burnley,Manchester City,1.25,4
+Burnley,Manchester United,1.0,4
+Burnley,Newcastle United,1.0,2
+Burnley,Portsmouth,0.0,2
+Burnley,Queens Park Rangers,1.5,2
+Burnley,Southampton,1.5,2
+Burnley,Stoke City,1.25,4
+Burnley,Sunderland,1.0,4
+Burnley,Swansea City,0.0,2
+Burnley,Tottenham Hotspur,1.0,4
+Burnley,West Bromwich Albion,0.5,2
+Burnley,West Ham United,0.75,4
+Burnley,Wigan Athletic,0.0,2
+Burnley,Wolverhampton Wanderers,0.0,2
+Cardiff City,Arsenal,0.0,2
+Cardiff City,Aston Villa,0.5,2
+Cardiff City,Chelsea,0.0,2
+Cardiff City,Crystal Palace,0.0,2
+Cardiff City,Everton,0.5,2
+Cardiff City,Fulham,3.0,2
+Cardiff City,Hull City,0.5,2
+Cardiff City,Liverpool,0.0,2
+Cardiff City,Manchester City,1.5,2
+Cardiff City,Manchester United,0.5,2
+Cardiff City,Newcastle United,0.0,2
+Cardiff City,Norwich City,2.0,2
+Cardiff City,Southampton,1.5,2
+Cardiff City,Stoke City,1.0,2
+Cardiff City,Sunderland,0.5,2
+Cardiff City,Swansea City,1.5,2
+Cardiff City,Tottenham Hotspur,0.0,2
+Cardiff City,West Bromwich Albion,2.0,2
+Cardiff City,West Ham United,0.0,2
+Chelsea,Arsenal,2.0625,16
+Chelsea,Aston Villa,2.1875,16
+Chelsea,Birmingham City,1.75,4
+Chelsea,Blackburn Rovers,2.75,8
+Chelsea,Blackpool,3.0,2
+Chelsea,Bolton Wanderers,3.0,8
+Chelsea,Bournemouth,1.5,2
+Chelsea,Burnley,2.5,4
+Chelsea,Cardiff City,3.0,2
+Chelsea,Crystal Palace,2.0,6
+Chelsea,Everton,1.4375,16
+Chelsea,Fulham,2.1666666666666665,12
+Chelsea,Hull City,2.5,8
+Chelsea,Leicester City,1.75,4
+Chelsea,Liverpool,1.1875,16
+Chelsea,Manchester City,1.3125,16
+Chelsea,Manchester United,1.5,16
+Chelsea,Middlesbrough,3.0,2
+Chelsea,Newcastle United,1.5714285714285714,14
+Chelsea,Norwich City,2.5,8
+Chelsea,Portsmouth,3.0,4
+Chelsea,Queens Park Rangers,1.6666666666666667,6
+Chelsea,Reading,2.0,2
+Chelsea,Southampton,1.5,8
+Chelsea,Stoke City,2.25,16
+Chelsea,Sunderland,2.3125,16
+Chelsea,Swansea City,2.1,10
+Chelsea,Tottenham Hotspur,1.4375,16
+Chelsea,Watford,1.0,2
+Chelsea,West Bromwich Albion,1.9285714285714286,14
+Chelsea,West Ham United,2.0,14
+Chelsea,Wigan Athletic,2.5,10
+Chelsea,Wolverhampton Wanderers,2.5,6
+Crystal Palace,Arsenal,0.16666666666666666,6
+Crystal Palace,Aston Villa,1.6666666666666667,6
+Crystal Palace,Bournemouth,0.5,2
+Crystal Palace,Burnley,2.0,2
+Crystal Palace,Cardiff City,3.0,2
+Crystal Palace,Chelsea,1.0,6
+Crystal Palace,Everton,1.5,6
+Crystal Palace,Fulham,0.5,2
+Crystal Palace,Hull City,1.5,4
+Crystal Palace,Leicester City,1.5,4
+Crystal Palace,Liverpool,1.6666666666666667,6
+Crystal Palace,Manchester City,0.5,6
+Crystal Palace,Manchester United,0.16666666666666666,6
+Crystal Palace,Newcastle United,0.8333333333333334,6
+Crystal Palace,Norwich City,1.75,4
+Crystal Palace,Queens Park Rangers,2.0,2
+Crystal Palace,Southampton,0.5,6
+Crystal Palace,Stoke City,2.1666666666666665,6
+Crystal Palace,Sunderland,1.3333333333333333,6
+Crystal Palace,Swansea City,1.1666666666666667,6
+Crystal Palace,Tottenham Hotspur,0.6666666666666666,6
+Crystal Palace,Watford,1.5,2
+Crystal Palace,West Bromwich Albion,1.1666666666666667,6
+Crystal Palace,West Ham United,1.6666666666666667,6
+Everton,Arsenal,0.5625,16
+Everton,Aston Villa,1.5625,16
+Everton,Birmingham City,1.5,4
+Everton,Blackburn Rovers,1.75,8
+Everton,Blackpool,2.0,2
+Everton,Bolton Wanderers,1.625,8
+Everton,Bournemouth,2.0,2
+Everton,Burnley,2.25,4
+Everton,Cardiff City,2.0,2
+Everton,Chelsea,1.25,16
+Everton,Crystal Palace,1.0,6
+Everton,Fulham,2.4166666666666665,12
+Everton,Hull City,1.75,8
+Everton,Leicester City,0.5,4
+Everton,Liverpool,0.6875,16
+Everton,Manchester City,1.5,16
+Everton,Manchester United,1.125,16
+Everton,Middlesbrough,2.0,2
+Everton,Newcastle United,1.9285714285714286,14
+Everton,Norwich City,1.375,8
+Everton,Portsmouth,1.5,4
+Everton,Queens Park Rangers,1.8333333333333333,6
+Everton,Reading,1.5,2
+Everton,Southampton,1.75,8
+Everton,Stoke City,1.4375,16
+Everton,Sunderland,1.75,16
+Everton,Swansea City,1.9,10
+Everton,Tottenham Hotspur,1.1875,16
+Everton,Watford,1.0,2
+Everton,West Bromwich Albion,1.7142857142857142,14
+Everton,West Ham United,2.2142857142857144,14
+Everton,Wigan Athletic,1.9,10
+Everton,Wolverhampton Wanderers,1.6666666666666667,6
+Fulham,Arsenal,0.8333333333333334,12
+Fulham,Aston Villa,1.4166666666666667,12
+Fulham,Birmingham City,1.75,4
+Fulham,Blackburn Rovers,1.0,8
+Fulham,Blackpool,2.0,2
+Fulham,Bolton Wanderers,2.25,8
+Fulham,Burnley,2.0,2
+Fulham,Cardiff City,0.0,2
+Fulham,Chelsea,0.4166666666666667,12
+Fulham,Crystal Palace,2.0,2
+Fulham,Everton,0.4166666666666667,12
+Fulham,Hull City,0.6666666666666666,6
+Fulham,Liverpool,0.9166666666666666,12
+Fulham,Manchester City,0.5833333333333334,12
+Fulham,Manchester United,0.6666666666666666,12
+Fulham,Middlesbrough,2.0,2
+Fulham,Newcastle United,1.9,10
+Fulham,Norwich City,2.3333333333333335,6
+Fulham,Portsmouth,2.5,4
+Fulham,Queens Park Rangers,2.25,4
+Fulham,Reading,0.5,2
+Fulham,Southampton,0.5,4
+Fulham,Stoke City,1.5833333333333333,12
+Fulham,Sunderland,1.4166666666666667,12
+Fulham,Swansea City,0.5,6
+Fulham,Tottenham Hotspur,0.6666666666666666,12
+Fulham,West Bromwich Albion,1.6,10
+Fulham,West Ham United,1.1,10
+Fulham,Wigan Athletic,2.2,10
+Fulham,Wolverhampton Wanderers,1.3333333333333333,6
+Hull City,Arsenal,0.5,8
+Hull City,Aston Villa,0.5,8
+Hull City,Birmingham City,0.5,2
+Hull City,Blackburn Rovers,0.5,4
+Hull City,Bolton Wanderers,1.25,4
+Hull City,Burnley,0.0,4
+Hull City,Cardiff City,2.0,2
+Hull City,Chelsea,0.25,8
+Hull City,Crystal Palace,1.5,4
+Hull City,Everton,1.0,8
+Hull City,Fulham,2.1666666666666665,6
+Hull City,Leicester City,0.5,2
+Hull City,Liverpool,1.125,8
+Hull City,Manchester City,0.75,8
+Hull City,Manchester United,0.125,8
+Hull City,Middlesbrough,1.5,2
+Hull City,Newcastle United,1.3333333333333333,6
+Hull City,Norwich City,1.5,2
+Hull City,Portsmouth,0.75,4
+Hull City,Queens Park Rangers,3.0,2
+Hull City,Southampton,0.0,4
+Hull City,Stoke City,0.75,8
+Hull City,Sunderland,1.25,8
+Hull City,Swansea City,1.0,4
+Hull City,Tottenham Hotspur,0.625,8
+Hull City,West Bromwich Albion,1.5,6
+Hull City,West Ham United,1.0,8
+Hull City,Wigan Athletic,1.0,4
+Hull City,Wolverhampton Wanderers,1.0,2
+Leicester City,Arsenal,0.25,4
+Leicester City,Aston Villa,1.75,4
+Leicester City,Bournemouth,1.0,2
+Leicester City,Burnley,2.0,2
+Leicester City,Chelsea,1.0,4
+Leicester City,Crystal Palace,1.5,4
+Leicester City,Everton,2.0,4
+Leicester City,Hull City,2.0,2
+Leicester City,Liverpool,1.0,4
+Leicester City,Manchester City,1.0,4
+Leicester City,Manchester United,1.25,4
+Leicester City,Newcastle United,2.25,4
+Leicester City,Norwich City,3.0,2
+Leicester City,Queens Park Rangers,1.5,2
+Leicester City,Southampton,1.75,4
+Leicester City,Stoke City,1.75,4
+Leicester City,Sunderland,2.0,4
+Leicester City,Swansea City,2.25,4
+Leicester City,Tottenham Hotspur,1.0,4
+Leicester City,Watford,3.0,2
+Leicester City,West Bromwich Albion,1.75,4
+Leicester City,West Ham United,1.75,4
+Liverpool,Arsenal,0.875,16
+Liverpool,Aston Villa,1.875,16
+Liverpool,Birmingham City,1.5,4
+Liverpool,Blackburn Rovers,2.125,8
+Liverpool,Blackpool,0.0,2
+Liverpool,Bolton Wanderers,2.625,8
+Liverpool,Bournemouth,3.0,2
+Liverpool,Burnley,3.0,4
+Liverpool,Cardiff City,3.0,2
+Liverpool,Chelsea,1.5625,16
+Liverpool,Crystal Palace,1.1666666666666667,6
+Liverpool,Everton,1.8125,16
+Liverpool,Fulham,1.9166666666666667,12
+Liverpool,Hull City,1.5,8
+Liverpool,Leicester City,1.75,4
+Liverpool,Manchester City,1.5,16
+Liverpool,Manchester United,1.1875,16
+Liverpool,Middlesbrough,1.5,2
+Liverpool,Newcastle United,1.7142857142857142,14
+Liverpool,Norwich City,2.5,8
+Liverpool,Portsmouth,2.25,4
+Liverpool,Queens Park Rangers,2.5,6
+Liverpool,Reading,2.0,2
+Liverpool,Southampton,1.625,8
+Liverpool,Stoke City,1.625,16
+Liverpool,Sunderland,2.0,16
+Liverpool,Swansea City,1.8,10
+Liverpool,Tottenham Hotspur,1.5,16
+Liverpool,Watford,1.5,2
+Liverpool,West Bromwich Albion,1.5714285714285714,14
+Liverpool,West Ham United,1.8571428571428572,14
+Liverpool,Wigan Athletic,1.6,10
+Liverpool,Wolverhampton Wanderers,2.1666666666666665,6
+Manchester City,Arsenal,1.3125,16
+Manchester City,Aston Villa,2.1875,16
+Manchester City,Birmingham City,1.5,4
+Manchester City,Blackburn Rovers,2.5,8
+Manchester City,Blackpool,3.0,2
+Manchester City,Bolton Wanderers,2.375,8
+Manchester City,Bournemouth,3.0,2
+Manchester City,Burnley,1.25,4
+Manchester City,Cardiff City,1.5,2
+Manchester City,Chelsea,1.5,16
+Manchester City,Crystal Palace,2.5,6
+Manchester City,Everton,1.3125,16
+Manchester City,Fulham,2.0833333333333335,12
+Manchester City,Hull City,1.875,8
+Manchester City,Leicester City,1.75,4
+Manchester City,Liverpool,1.125,16
+Manchester City,Manchester United,1.25,16
+Manchester City,Middlesbrough,1.5,2
+Manchester City,Newcastle United,2.7142857142857144,14
+Manchester City,Norwich City,2.125,8
+Manchester City,Portsmouth,2.25,4
+Manchester City,Queens Park Rangers,2.3333333333333335,6
+Manchester City,Reading,3.0,2
+Manchester City,Southampton,2.0,8
+Manchester City,Stoke City,1.8125,16
+Manchester City,Sunderland,1.875,16
+Manchester City,Swansea City,2.3,10
+Manchester City,Tottenham Hotspur,1.5625,16
+Manchester City,Watford,3.0,2
+Manchester City,West Bromwich Albion,2.642857142857143,14
+Manchester City,West Ham United,1.9285714285714286,14
+Manchester City,Wigan Athletic,2.5,10
+Manchester City,Wolverhampton Wanderers,2.5,6
+Manchester United,Arsenal,1.9375,16
+Manchester United,Aston Villa,2.3125,16
+Manchester United,Birmingham City,2.0,4
+Manchester United,Blackburn Rovers,2.125,8
+Manchester United,Blackpool,3.0,2
+Manchester United,Bolton Wanderers,2.75,8
+Manchester United,Bournemouth,1.5,2
+Manchester United,Burnley,1.75,4
+Manchester United,Cardiff City,2.0,2
+Manchester United,Chelsea,1.125,16
+Manchester United,Crystal Palace,2.6666666666666665,6
+Manchester United,Everton,1.6875,16
+Manchester United,Fulham,2.1666666666666665,12
+Manchester United,Hull City,2.75,8
+Manchester United,Leicester City,1.25,4
+Manchester United,Liverpool,1.75,16
+Manchester United,Manchester City,1.625,16
+Manchester United,Middlesbrough,3.0,2
+Manchester United,Newcastle United,1.8571428571428572,14
+Manchester United,Norwich City,2.25,8
+Manchester United,Portsmouth,3.0,4
+Manchester United,Queens Park Rangers,3.0,6
+Manchester United,Reading,3.0,2
+Manchester United,Southampton,1.75,8
+Manchester United,Stoke City,2.375,16
+Manchester United,Sunderland,2.25,16
+Manchester United,Swansea City,1.9,10
+Manchester United,Tottenham Hotspur,1.8125,16
+Manchester United,Watford,3.0,2
+Manchester United,West Bromwich Albion,1.9285714285714286,14
+Manchester United,West Ham United,2.357142857142857,14
+Manchester United,Wigan Athletic,2.7,10
+Manchester United,Wolverhampton Wanderers,2.5,6
+Middlesbrough,Arsenal,0.5,2
+Middlesbrough,Aston Villa,2.0,2
+Middlesbrough,Blackburn Rovers,1.0,2
+Middlesbrough,Bolton Wanderers,0.0,2
+Middlesbrough,Chelsea,0.0,2
+Middlesbrough,Everton,0.5,2
+Middlesbrough,Fulham,0.5,2
+Middlesbrough,Hull City,1.5,2
+Middlesbrough,Liverpool,1.5,2
+Middlesbrough,Manchester City,1.5,2
+Middlesbrough,Manchester United,0.0,2
+Middlesbrough,Newcastle United,0.5,2
+Middlesbrough,Portsmouth,0.5,2
+Middlesbrough,Stoke City,1.5,2
+Middlesbrough,Sunderland,0.5,2
+Middlesbrough,Tottenham Hotspur,1.5,2
+Middlesbrough,West Bromwich Albion,0.0,2
+Middlesbrough,West Ham United,0.5,2
+Middlesbrough,Wigan Athletic,2.0,2
+Newcastle United,Arsenal,0.35714285714285715,14
+Newcastle United,Aston Villa,1.8571428571428572,14
+Newcastle United,Birmingham City,3.0,2
+Newcastle United,Blackburn Rovers,1.1666666666666667,6
+Newcastle United,Blackpool,0.5,2
+Newcastle United,Bolton Wanderers,1.6666666666666667,6
+Newcastle United,Bournemouth,1.5,2
+Newcastle United,Burnley,1.0,2
+Newcastle United,Cardiff City,3.0,2
+Newcastle United,Chelsea,1.1428571428571428,14
+Newcastle United,Crystal Palace,1.8333333333333333,6
+Newcastle United,Everton,0.8571428571428571,14
+Newcastle United,Fulham,1.0,10
+Newcastle United,Hull City,1.3333333333333333,6
+Newcastle United,Leicester City,0.75,4
+Newcastle United,Liverpool,1.0714285714285714,14
+Newcastle United,Manchester City,0.14285714285714285,14
+Newcastle United,Manchester United,0.7857142857142857,14
+Newcastle United,Middlesbrough,2.0,2
+Newcastle United,Norwich City,1.75,8
+Newcastle United,Portsmouth,2.0,2
+Newcastle United,Queens Park Rangers,2.1666666666666665,6
+Newcastle United,Reading,0.5,2
+Newcastle United,Southampton,0.625,8
+Newcastle United,Stoke City,1.1428571428571428,14
+Newcastle United,Sunderland,0.7857142857142857,14
+Newcastle United,Swansea City,0.8,10
+Newcastle United,Tottenham Hotspur,1.4285714285714286,14
+Newcastle United,Watford,0.0,2
+Newcastle United,West Bromwich Albion,1.7142857142857142,14
+Newcastle United,West Ham United,1.5,12
+Newcastle United,Wigan Athletic,1.375,8
+Newcastle United,Wolverhampton Wanderers,2.0,4
+Norwich City,Arsenal,0.625,8
+Norwich City,Aston Villa,0.875,8
+Norwich City,Blackburn Rovers,0.5,2
+Norwich City,Bolton Wanderers,3.0,2
+Norwich City,Bournemouth,1.5,2
+Norwich City,Cardiff City,0.5,2
+Norwich City,Chelsea,0.25,8
+Norwich City,Crystal Palace,1.0,4
+Norwich City,Everton,1.0,8
+Norwich City,Fulham,0.3333333333333333,6
+Norwich City,Hull City,1.5,2
+Norwich City,Leicester City,0.0,2
+Norwich City,Liverpool,0.25,8
+Norwich City,Manchester City,0.625,8
+Norwich City,Manchester United,0.75,8
+Norwich City,Newcastle United,1.0,8
+Norwich City,Queens Park Rangers,2.0,4
+Norwich City,Reading,2.0,2
+Norwich City,Southampton,1.3333333333333333,6
+Norwich City,Stoke City,1.125,8
+Norwich City,Sunderland,1.75,8
+Norwich City,Swansea City,1.75,8
+Norwich City,Tottenham Hotspur,1.0,8
+Norwich City,Watford,1.5,2
+Norwich City,West Bromwich Albion,1.5,8
+Norwich City,West Ham United,1.0,6
+Norwich City,Wigan Athletic,1.25,4
+Norwich City,Wolverhampton Wanderers,2.0,2
+Portsmouth,Arsenal,0.0,4
+Portsmouth,Aston Villa,0.25,4
+Portsmouth,Birmingham City,0.0,2
+Portsmouth,Blackburn Rovers,1.0,4
+Portsmouth,Bolton Wanderers,1.0,4
+Portsmouth,Burnley,3.0,2
+Portsmouth,Chelsea,0.0,4
+Portsmouth,Everton,1.5,4
+Portsmouth,Fulham,0.25,4
+Portsmouth,Hull City,1.5,4
+Portsmouth,Liverpool,0.75,4
+Portsmouth,Manchester City,0.75,4
+Portsmouth,Manchester United,0.0,4
+Portsmouth,Middlesbrough,2.0,2
+Portsmouth,Newcastle United,0.5,2
+Portsmouth,Stoke City,1.0,4
+Portsmouth,Sunderland,2.0,4
+Portsmouth,Tottenham Hotspur,1.0,4
+Portsmouth,West Bromwich Albion,1.0,2
+Portsmouth,West Ham United,0.5,4
+Portsmouth,Wigan Athletic,1.0,4
+Portsmouth,Wolverhampton Wanderers,3.0,2
+Queens Park Rangers,Arsenal,0.5,6
+Queens Park Rangers,Aston Villa,1.1666666666666667,6
+Queens Park Rangers,Blackburn Rovers,0.5,2
+Queens Park Rangers,Bolton Wanderers,0.0,2
+Queens Park Rangers,Burnley,1.5,2
+Queens Park Rangers,Chelsea,1.1666666666666667,6
+Queens Park Rangers,Crystal Palace,0.5,2
+Queens Park Rangers,Everton,0.8333333333333334,6
+Queens Park Rangers,Fulham,0.75,4
+Queens Park Rangers,Hull City,0.0,2
+Queens Park Rangers,Leicester City,1.5,2
+Queens Park Rangers,Liverpool,0.5,6
+Queens Park Rangers,Manchester City,0.3333333333333333,6
+Queens Park Rangers,Manchester United,0.0,6
+Queens Park Rangers,Newcastle United,0.6666666666666666,6
+Queens Park Rangers,Norwich City,0.5,4
+Queens Park Rangers,Reading,1.0,2
+Queens Park Rangers,Southampton,0.75,4
+Queens Park Rangers,Stoke City,1.1666666666666667,6
+Queens Park Rangers,Sunderland,1.6666666666666667,6
+Queens Park Rangers,Swansea City,0.8333333333333334,6
+Queens Park Rangers,Tottenham Hotspur,0.6666666666666666,6
+Queens Park Rangers,West Bromwich Albion,1.1666666666666667,6
+Queens Park Rangers,West Ham United,0.5,4
+Queens Park Rangers,Wigan Athletic,1.25,4
+Queens Park Rangers,Wolverhampton Wanderers,1.5,2
+Reading,Arsenal,0.0,2
+Reading,Aston Villa,0.0,2
+Reading,Chelsea,0.5,2
+Reading,Everton,1.5,2
+Reading,Fulham,2.0,2
+Reading,Liverpool,0.5,2
+Reading,Manchester City,0.0,2
+Reading,Manchester United,0.0,2
+Reading,Newcastle United,2.0,2
+Reading,Norwich City,0.5,2
+Reading,Queens Park Rangers,1.0,2
+Reading,Southampton,0.0,2
+Reading,Stoke City,0.5,2
+Reading,Sunderland,1.5,2
+Reading,Swansea City,1.0,2
+Reading,Tottenham Hotspur,0.0,2
+Reading,West Bromwich Albion,1.5,2
+Reading,West Ham United,1.5,2
+Reading,Wigan Athletic,0.0,2
+Southampton,Arsenal,1.125,8
+Southampton,Aston Villa,1.875,8
+Southampton,Bournemouth,1.5,2
+Southampton,Burnley,1.5,2
+Southampton,Cardiff City,1.5,2
+Southampton,Chelsea,1.125,8
+Southampton,Crystal Palace,2.5,6
+Southampton,Everton,1.0,8
+Southampton,Fulham,2.0,4
+Southampton,Hull City,3.0,4
+Southampton,Leicester City,1.0,4
+Southampton,Liverpool,1.25,8
+Southampton,Manchester City,0.875,8
+Southampton,Manchester United,1.0,8
+Southampton,Newcastle United,2.125,8
+Southampton,Norwich City,1.3333333333333333,6
+Southampton,Queens Park Rangers,2.25,4
+Southampton,Reading,3.0,2
+Southampton,Stoke City,1.25,8
+Southampton,Sunderland,1.25,8
+Southampton,Swansea City,2.125,8
+Southampton,Tottenham Hotspur,0.5,8
+Southampton,Watford,2.0,2
+Southampton,West Bromwich Albion,1.375,8
+Southampton,West Ham United,1.125,8
+Southampton,Wigan Athletic,0.5,2
+Stoke City,Arsenal,0.9375,16
+Stoke City,Aston Villa,1.6875,16
+Stoke City,Birmingham City,1.0,4
+Stoke City,Blackburn Rovers,2.375,8
+Stoke City,Blackpool,0.5,2
+Stoke City,Bolton Wanderers,1.0,8
+Stoke City,Bournemouth,3.0,2
+Stoke City,Burnley,1.25,4
+Stoke City,Cardiff City,1.0,2
+Stoke City,Chelsea,0.5625,16
+Stoke City,Crystal Palace,0.6666666666666666,6
+Stoke City,Everton,1.25,16
+Stoke City,Fulham,1.3333333333333333,12
+Stoke City,Hull City,1.875,8
+Stoke City,Leicester City,1.0,4
+Stoke City,Liverpool,1.0625,16
+Stoke City,Manchester City,0.875,16
+Stoke City,Manchester United,0.5,16
+Stoke City,Middlesbrough,1.5,2
+Stoke City,Newcastle United,1.5714285714285714,14
+Stoke City,Norwich City,1.5,8
+Stoke City,Portsmouth,1.75,4
+Stoke City,Queens Park Rangers,1.6666666666666667,6
+Stoke City,Reading,2.0,2
+Stoke City,Southampton,1.25,8
+Stoke City,Sunderland,1.0625,16
+Stoke City,Swansea City,1.5,10
+Stoke City,Tottenham Hotspur,1.125,16
+Stoke City,Watford,1.5,2
+Stoke City,West Bromwich Albion,1.7142857142857142,14
+Stoke City,West Ham United,1.4285714285714286,14
+Stoke City,Wigan Athletic,1.0,10
+Stoke City,Wolverhampton Wanderers,1.8333333333333333,6
+Sunderland,Arsenal,0.625,16
+Sunderland,Aston Villa,0.9375,16
+Sunderland,Birmingham City,1.0,4
+Sunderland,Blackburn Rovers,1.875,8
+Sunderland,Blackpool,1.5,2
+Sunderland,Bolton Wanderers,2.125,8
+Sunderland,Bournemouth,0.5,2
+Sunderland,Burnley,1.75,4
+Sunderland,Cardiff City,2.0,2
+Sunderland,Chelsea,0.625,16
+Sunderland,Crystal Palace,1.3333333333333333,6
+Sunderland,Everton,1.0,16
+Sunderland,Fulham,1.1666666666666667,12
+Sunderland,Hull City,1.625,8
+Sunderland,Leicester City,0.5,4
+Sunderland,Liverpool,0.6875,16
+Sunderland,Manchester City,0.9375,16
+Sunderland,Manchester United,0.5625,16
+Sunderland,Middlesbrough,2.0,2
+Sunderland,Newcastle United,1.8571428571428572,14
+Sunderland,Norwich City,1.0,8
+Sunderland,Portsmouth,0.5,4
+Sunderland,Queens Park Rangers,1.1666666666666667,6
+Sunderland,Reading,1.5,2
+Sunderland,Southampton,1.25,8
+Sunderland,Stoke City,1.625,16
+Sunderland,Swansea City,1.2,10
+Sunderland,Tottenham Hotspur,0.625,16
+Sunderland,Watford,0.5,2
+Sunderland,West Bromwich Albion,0.7142857142857143,14
+Sunderland,West Ham United,1.0,14
+Sunderland,Wigan Athletic,1.5,10
+Sunderland,Wolverhampton Wanderers,0.6666666666666666,6
+Swansea City,Arsenal,1.6,10
+Swansea City,Aston Villa,2.1,10
+Swansea City,Blackburn Rovers,1.5,2
+Swansea City,Bolton Wanderers,2.0,2
+Swansea City,Bournemouth,0.5,2
+Swansea City,Burnley,3.0,2
+Swansea City,Cardiff City,1.5,2
+Swansea City,Chelsea,0.6,10
+Swansea City,Crystal Palace,1.1666666666666667,6
+Swansea City,Everton,0.7,10
+Swansea City,Fulham,2.5,6
+Swansea City,Hull City,1.75,4
+Swansea City,Leicester City,0.75,4
+Swansea City,Liverpool,0.9,10
+Swansea City,Manchester City,0.5,10
+Swansea City,Manchester United,1.0,10
+Swansea City,Newcastle United,2.0,10
+Swansea City,Norwich City,1.0,8
+Swansea City,Queens Park Rangers,1.8333333333333333,6
+Swansea City,Reading,1.0,2
+Swansea City,Southampton,0.625,8
+Swansea City,Stoke City,1.2,10
+Swansea City,Sunderland,1.2,10
+Swansea City,Tottenham Hotspur,0.2,10
+Swansea City,Watford,1.5,2
+Swansea City,West Bromwich Albion,1.9,10
+Swansea City,West Ham United,1.125,8
+Swansea City,Wigan Athletic,2.5,4
+Swansea City,Wolverhampton Wanderers,1.0,2
+Tottenham Hotspur,Arsenal,1.3125,16
+Tottenham Hotspur,Aston Villa,2.25,16
+Tottenham Hotspur,Birmingham City,2.0,4
+Tottenham Hotspur,Blackburn Rovers,2.625,8
+Tottenham Hotspur,Blackpool,0.5,2
+Tottenham Hotspur,Bolton Wanderers,2.0,8
+Tottenham Hotspur,Bournemouth,3.0,2
+Tottenham Hotspur,Burnley,1.75,4
+Tottenham Hotspur,Cardiff City,3.0,2
+Tottenham Hotspur,Chelsea,1.0625,16
+Tottenham Hotspur,Crystal Palace,2.1666666666666665,6
+Tottenham Hotspur,Everton,1.375,16
+Tottenham Hotspur,Fulham,2.1666666666666665,12
+Tottenham Hotspur,Hull City,2.125,8
+Tottenham Hotspur,Leicester City,1.75,4
+Tottenham Hotspur,Liverpool,1.3125,16
+Tottenham Hotspur,Manchester City,1.375,16
+Tottenham Hotspur,Manchester United,0.875,16
+Tottenham Hotspur,Middlesbrough,1.5,2
+Tottenham Hotspur,Newcastle United,1.4285714285714286,14
+Tottenham Hotspur,Norwich City,1.75,8
+Tottenham Hotspur,Portsmouth,1.75,4
+Tottenham Hotspur,Queens Park Rangers,2.1666666666666665,6
+Tottenham Hotspur,Reading,3.0,2
+Tottenham Hotspur,Southampton,2.375,8
+Tottenham Hotspur,Stoke City,1.6875,16
+Tottenham Hotspur,Sunderland,2.125,16
+Tottenham Hotspur,Swansea City,2.6,10
+Tottenham Hotspur,Watford,3.0,2
+Tottenham Hotspur,West Bromwich Albion,1.5714285714285714,14
+Tottenham Hotspur,West Ham United,1.8571428571428572,14
+Tottenham Hotspur,Wigan Athletic,1.5,10
+Tottenham Hotspur,Wolverhampton Wanderers,1.3333333333333333,6
+Watford,Arsenal,0.0,2
+Watford,Aston Villa,3.0,2
+Watford,Bournemouth,1.0,2
+Watford,Chelsea,1.0,2
+Watford,Crystal Palace,1.5,2
+Watford,Everton,1.0,2
+Watford,Leicester City,0.0,2
+Watford,Liverpool,1.5,2
+Watford,Manchester City,0.0,2
+Watford,Manchester United,0.0,2
+Watford,Newcastle United,3.0,2
+Watford,Norwich City,1.5,2
+Watford,Southampton,0.5,2
+Watford,Stoke City,1.5,2
+Watford,Sunderland,2.0,2
+Watford,Swansea City,1.5,2
+Watford,Tottenham Hotspur,0.0,2
+Watford,West Bromwich Albion,2.0,2
+Watford,West Ham United,1.5,2
+West Bromwich Albion,Arsenal,0.5714285714285714,14
+West Bromwich Albion,Aston Villa,1.2142857142857142,14
+West Bromwich Albion,Birmingham City,3.0,2
+West Bromwich Albion,Blackburn Rovers,1.3333333333333333,6
+West Bromwich Albion,Blackpool,1.5,2
+West Bromwich Albion,Bolton Wanderers,1.1666666666666667,6
+West Bromwich Albion,Bournemouth,0.5,2
+West Bromwich Albion,Burnley,2.0,2
+West Bromwich Albion,Cardiff City,0.5,2
+West Bromwich Albion,Chelsea,0.8571428571428571,14
+West Bromwich Albion,Crystal Palace,1.6666666666666667,6
+West Bromwich Albion,Everton,1.0714285714285714,14
+West Bromwich Albion,Fulham,1.0,10
+West Bromwich Albion,Hull City,1.0,6
+West Bromwich Albion,Leicester City,1.0,4
+West Bromwich Albion,Liverpool,1.1428571428571428,14
+West Bromwich Albion,Manchester City,0.2857142857142857,14
+West Bromwich Albion,Manchester United,0.8571428571428571,14
+West Bromwich Albion,Middlesbrough,3.0,2
+West Bromwich Albion,Newcastle United,1.0714285714285714,14
+West Bromwich Albion,Norwich City,1.5,8
+West Bromwich Albion,Portsmouth,1.0,2
+West Bromwich Albion,Queens Park Rangers,1.6666666666666667,6
+West Bromwich Albion,Reading,1.5,2
+West Bromwich Albion,Southampton,1.375,8
+West Bromwich Albion,Stoke City,1.0714285714285714,14
+West Bromwich Albion,Sunderland,2.0,14
+West Bromwich Albion,Swansea City,1.0,10
+West Bromwich Albion,Tottenham Hotspur,0.9285714285714286,14
+West Bromwich Albion,Watford,0.5,2
+West Bromwich Albion,West Ham United,1.0833333333333333,12
+West Bromwich Albion,Wigan Athletic,1.0,8
+West Bromwich Albion,Wolverhampton Wanderers,1.75,4
+West Ham United,Arsenal,0.42857142857142855,14
+West Ham United,Aston Villa,1.2142857142857142,14
+West Ham United,Birmingham City,1.0,4
+West Ham United,Blackburn Rovers,1.3333333333333333,6
+West Ham United,Blackpool,2.0,2
+West Ham United,Bolton Wanderers,0.0,6
+West Ham United,Bournemouth,1.5,2
+West Ham United,Burnley,2.25,4
+West Ham United,Cardiff City,3.0,2
+West Ham United,Chelsea,0.7142857142857143,14
+West Ham United,Crystal Palace,1.1666666666666667,6
+West Ham United,Everton,0.5,14
+West Ham United,Fulham,1.7,10
+West Ham United,Hull City,1.75,8
+West Ham United,Leicester City,1.0,4
+West Ham United,Liverpool,1.0,14
+West Ham United,Manchester City,0.8571428571428571,14
+West Ham United,Manchester United,0.42857142857142855,14
+West Ham United,Middlesbrough,2.0,2
+West Ham United,Newcastle United,1.25,12
+West Ham United,Norwich City,1.5,6
+West Ham United,Portsmouth,2.0,4
+West Ham United,Queens Park Rangers,2.0,4
+West Ham United,Reading,1.5,2
+West Ham United,Southampton,1.5,8
+West Ham United,Stoke City,1.2142857142857142,14
+West Ham United,Sunderland,1.6428571428571428,14
+West Ham United,Swansea City,1.5,8
+West Ham United,Tottenham Hotspur,1.0,14
+West Ham United,Watford,1.5,2
+West Ham United,West Bromwich Albion,1.3333333333333333,12
+West Ham United,Wigan Athletic,1.875,8
+West Ham United,Wolverhampton Wanderers,1.75,4
+Wigan Athletic,Arsenal,0.7,10
+Wigan Athletic,Aston Villa,1.0,10
+Wigan Athletic,Birmingham City,1.0,4
+Wigan Athletic,Blackburn Rovers,1.375,8
+Wigan Athletic,Blackpool,1.5,2
+Wigan Athletic,Bolton Wanderers,1.25,8
+Wigan Athletic,Burnley,3.0,2
+Wigan Athletic,Chelsea,0.4,10
+Wigan Athletic,Everton,0.7,10
+Wigan Athletic,Fulham,0.4,10
+Wigan Athletic,Hull City,1.75,4
+Wigan Athletic,Liverpool,1.0,10
+Wigan Athletic,Manchester City,0.4,10
+Wigan Athletic,Manchester United,0.3,10
+Wigan Athletic,Middlesbrough,0.5,2
+Wigan Athletic,Newcastle United,1.375,8
+Wigan Athletic,Norwich City,1.25,4
+Wigan Athletic,Portsmouth,1.75,4
+Wigan Athletic,Queens Park Rangers,1.25,4
+Wigan Athletic,Reading,3.0,2
+Wigan Athletic,Southampton,2.0,2
+Wigan Athletic,Stoke City,1.3,10
+Wigan Athletic,Sunderland,1.2,10
+Wigan Athletic,Swansea City,0.25,4
+Wigan Athletic,Tottenham Hotspur,1.2,10
+Wigan Athletic,West Bromwich Albion,1.75,8
+Wigan Athletic,West Ham United,1.125,8
+Wigan Athletic,Wolverhampton Wanderers,2.0,6
+Wolverhampton Wanderers,Arsenal,0.16666666666666666,6
+Wolverhampton Wanderers,Aston Villa,1.0,6
+Wolverhampton Wanderers,Birmingham City,1.0,4
+Wolverhampton Wanderers,Blackburn Rovers,0.6666666666666666,6
+Wolverhampton Wanderers,Blackpool,1.5,2
+Wolverhampton Wanderers,Bolton Wanderers,0.6666666666666666,6
+Wolverhampton Wanderers,Burnley,3.0,2
+Wolverhampton Wanderers,Chelsea,0.5,6
+Wolverhampton Wanderers,Everton,0.6666666666666666,6
+Wolverhampton Wanderers,Fulham,1.3333333333333333,6
+Wolverhampton Wanderers,Hull City,1.0,2
+Wolverhampton Wanderers,Liverpool,0.6666666666666666,6
+Wolverhampton Wanderers,Manchester City,0.5,6
+Wolverhampton Wanderers,Manchester United,0.5,6
+Wolverhampton Wanderers,Newcastle United,0.5,4
+Wolverhampton Wanderers,Norwich City,0.5,2
+Wolverhampton Wanderers,Portsmouth,0.0,2
+Wolverhampton Wanderers,Queens Park Rangers,1.5,2
+Wolverhampton Wanderers,Stoke City,0.8333333333333334,6
+Wolverhampton Wanderers,Sunderland,2.1666666666666665,6
+Wolverhampton Wanderers,Swansea City,1.0,2
+Wolverhampton Wanderers,Tottenham Hotspur,1.3333333333333333,6
+Wolverhampton Wanderers,West Bromwich Albion,1.0,4
+Wolverhampton Wanderers,West Ham United,1.0,4
+Wolverhampton Wanderers,Wigan Athletic,1.0,6
